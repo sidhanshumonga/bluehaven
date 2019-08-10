@@ -8,8 +8,8 @@ $(function() {
 	});
 
 	// Backstretchs
-	$("#header").backstretch("images/3.jpg");
-	$("#services").backstretch("images/3.jpg");
+	$("#header").backstretch("images/haven.jpg");
+	$("#services").backstretch("images/haven.jpg");
 	
 	// Countdown
 	$('.countdown').downCount({
