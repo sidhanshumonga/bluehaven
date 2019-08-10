@@ -10,6 +10,7 @@ $(function() {
 	// Backstretchs
 	$("#header").backstretch("images/haven.jpg");
 	$("#services").backstretch("images/haven.jpg");
+	$("#videos").backstretch("images/haven.jpg");
 	
 	// Countdown
 	$('.countdown').downCount({
